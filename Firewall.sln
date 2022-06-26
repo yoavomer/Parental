@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Client", "Firewall\Client.csproj", "{B5CD7550-A90E-4F81-94A6-D88F5740AFBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5CD7550-A90E-4F81-94A6-D88F5740AFBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5CD7550-A90E-4F81-94A6-D88F5740AFBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5CD7550-A90E-4F81-94A6-D88F5740AFBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5CD7550-A90E-4F81-94A6-D88F5740AFBD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {523F2D3E-178A-423D-A703-6683B45A2B8A}
+	EndGlobalSection
+EndGlobal
